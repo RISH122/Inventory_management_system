@@ -32,7 +32,7 @@ To set up the Inventory Management System locally, follow these steps:
 
 ### Clone the Repository
 
-git clone https://github.com/naman8033/Trueigtech-assignment
+git clone https://github.com/RISH122/Inventory_management_system
 cd inventory-management
 
 ### Clone the Repository
@@ -42,8 +42,8 @@ npm install
 ### Configure Environment Variables
 
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/inventory
-JWT_SECRET=your_jwt_secret
+MONGODB_URI=mongodb://localhost:27017/inventory-management
+JWT_SECRET=abcd1001
 
 ### Start the Server
 
@@ -53,7 +53,7 @@ The server will start on http://localhost:3000.
 
 ### API DOCUMENTATION
 
-Documentation link - https://documenter.getpostman.com/view/36364896/2sAYQdi9bP
+Documentation link - https://documenter.getpostman.com/view/32393129/2sAYQdiVNx
 
 # Inventory Management API
 
@@ -235,3 +235,5 @@ Retrieve a list of all stock transactions.
 - Use valid product IDs or SKUs for operations involving specific products.
 
 ---
+
+> > > > > > > 9d53066 (Your commit message)
